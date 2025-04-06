@@ -12,29 +12,9 @@
 <h1>
  💬 About ME
 </h1>
-
-<!-- 打字动效标题 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7B267&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Ing+%F0%9F%91%8B;An+Electronics+%26+Information+Engineering+Student;Enthusiastic+about+IC+Design%2C+EM+Fields%2C+Robots%2C+and+Python" alt="Typing SVG" />
-</p>
-
-<!-- 个人简介 -->
-## 🎓 About Me
-
 🎓 I'm a **junior undergraduate student** at **China University of Petroleum (East China)**, majoring in **Electronic Information Engineering**.  
 🔬 I'm passionate about **IC Design**, **Electromagnetics**, **Robotics**, and **Python programming**.  
 💡 I enjoy learning, building, and contributing in any way I can — through projects, teamwork, or open source.
-
-<!-- 技术栈图标 -->
-## ⚙️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vivado-FDA100?style=for-the-badge&logo=Xilinx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white"/>
-</p>
-### - I am a 22-year-old student majoring in Electronic and Information Engineering, from UPC, China.
 
 ### - Learning :
 - ✨ Integrated Circuit (IC) Design
@@ -47,6 +27,14 @@
 - ✨ Reading  Novels
 - ✨ Badminton (Neighbourhood Professional XD)
 
+### ⚙️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vivado-FDA100?style=for-the-badge&logo=Xilinx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white"/>
+</p>
 
 <!-- Nothing weird to see here -->
 <p align="center">
