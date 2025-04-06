@@ -44,26 +44,34 @@
 
 <p align="center"><i>Feel free to reach out — I’d love to hear from you!</i></p>
 
-<!-- Gmail 邮箱 -->
-<a href="mailto:xy1711271149@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-xy1711271149@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<br/>
-<i>Send me an email on Gmail 📧</i>
+<div align="center">
 
-<!-- QQ 邮箱 -->
-<a href="mailto:1711271149@qq.com">
-  <img src="https://img.shields.io/badge/QQ-1711271149@qq.com-12C3B2?style=for-the-badge&logo=tencentqq&logoColor=white" />
-</a>
-<br/>
-<i>Drop me a message on QQ 📬</i>
+  <!-- Gmail 邮箱 -->
+  <a href="mailto:xy1711271149@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-xy1711271149@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br/>
+  <i>Send me an email on Gmail 📧</i>
 
-<!-- GitHub 主页 -->
-<a href="https://github.com/xy-lo">
-  <img src="https://img.shields.io/badge/GitHub-xy--lo-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<br/>
-<i>Visit my GitHub Profile 🐙</i>
+  <br/><br/>
+
+  <!-- QQ 邮箱 -->
+  <a href="mailto:1711271149@qq.com">
+    <img src="https://img.shields.io/badge/QQ-1711271149@qq.com-12C3B2?style=for-the-badge&logo=tencentqq&logoColor=white" />
+  </a>
+  <br/>
+  <i>Drop me a message on QQ 📬</i>
+
+  <br/><br/>
+
+  <!-- GitHub 主页 -->
+  <a href="https://github.com/xy-lo">
+    <img src="https://img.shields.io/badge/GitHub-xy--lo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br/>
+  <i>Visit my GitHub Profile 🐙</i>
+
+</div>
 
 ---
 
