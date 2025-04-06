@@ -30,6 +30,7 @@
 <div align="center"><img src="https://raw.githubusercontent.com/xy-lo/xy-lo/main/assets/github-contribution-grid-snake.svg" ></div>--
 
 
+- ✨ Badminton (Neighbourhood Professional XD)
 ![](https://raw.githubusercontent.com/xy-lo/xy-lo/main/assets/github-contribution-grid-snake.svg)
 
 <!-- Nothing weird to see here -->
