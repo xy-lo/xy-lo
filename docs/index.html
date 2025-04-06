@@ -4,39 +4,44 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>音乐播放器</title>
+  
+  <!-- 引入 APlayer 样式 -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
+  
+  <!-- 引入其他依赖 -->
+  <script src="https://cdn.jsdelivr.net/npm/vconsole/dist/vconsole.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js/dist/hls.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/color-thief-don@2.0.2/src/color-thief.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script>
+  
   <style>
+    /* 确保页面和 body 填满全屏 */
     body, html {
       height: 100%;
       margin: 0;
-      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #f0f0f0;
     }
+    /* 设置播放器容器样式 */
     .player-container {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
       width: 80%;
-      max-width: 600px;
-      height: 200px;
+      max-width: 600px; /* 你可以调整最大宽度 */
+      height: 200px; /* 你可以调整播放器的高度 */
     }
   </style>
 </head>
 <body>
+  <!-- 播放器容器 -->
   <div class="player-container">
-    <meting-js server="tencent" type="playlist" id="1769768332" fixed="true"></meting-js>
+    <!-- 使用 Meting 播放器 -->
+    <meting-js server="tencent" type="playlist" id="bWFHU4I5n9sg" fixed="true"></meting-js>
   </div>
 
-<!--APlayer-->
-<script src="https://cdn.jsdelivr.net/npm/vconsole/dist/vconsole.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
-<script src="https://cdn.jsdelivr.net/npm/hls.js/dist/hls.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/color-thief-don@2.0.2/src/color-thief.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script>
-<meting-js server="tencent" type="playlist" id="bWFHU4I5n9sg" fixed="true"></meting-js>
-
+  <script>
+    // 你可以在这里添加额外的 JavaScript 代码
+  </script>
 </body>
 </html>
-
-
