@@ -45,14 +45,25 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <!-- Gmail 邮箱链接 -->
+  <a href="mailto:xy1711271149@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/yourusername">
+  
+  <!-- QQ 邮箱链接 -->
+  <a href="mailto:1711271149@qq.com">
+    <img src="https://img.shields.io/badge/QQ%20Email-12C3B2?style=flat-square&logo=qq&logoColor=white"/>
+  </a>
+
+  <!-- GitHub 个人主页链接 -->
+  <a href="https://github.com/xy-lo">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  
+  
+  <!-- GitHub Star 按钮，点击后可以一键star -->
+  <a href="https://github.com/yourusername/yourrepository/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/yourusername/yourrepository?style=social"/>
   </a>
 </p>
 
