@@ -40,26 +40,30 @@
   <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white"/>
 </p>
 
-<h1 align="center">📫 Let's Connect</h1>
+<h1 >📫 Let's Connect</h1>
 
 <p align="center"><i>Feel free to reach out — I’d love to hear from you!</i></p>
 
-<p align="center">
-  <!-- Gmail -->
-  <a href="mailto:xy1711271149@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-xy1711271149@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<!-- Gmail 邮箱 -->
+<a href="mailto:xy1711271149@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-xy1711271149@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<br/>
+<i>Send me an email on Gmail 📧</i>
 
-  <!-- QQ -->
-  <a href="mailto:1711271149@qq.com">
-    <img src="https://img.shields.io/badge/QQ-1711271149@qq.com-12C3B2?style=for-the-badge&logo=tencentqq&logoColor=white" />
-  </a>
+<!-- QQ 邮箱 -->
+<a href="mailto:1711271149@qq.com">
+  <img src="https://img.shields.io/badge/QQ-1711271149@qq.com-12C3B2?style=for-the-badge&logo=tencentqq&logoColor=white" />
+</a>
+<br/>
+<i>Drop me a message on QQ 📬</i>
 
-  <!-- GitHub -->
-  <a href="https://github.com/xy-lo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-xy--lo-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<!-- GitHub 主页 -->
+<a href="https://github.com/xy-lo">
+  <img src="https://img.shields.io/badge/GitHub-xy--lo-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br/>
+<i>Visit my GitHub Profile 🐙</i>
 
 ---
 
@@ -73,47 +77,6 @@
 </p>
 
 <p align="center"><i>Thank you for visiting! 🎉</i></p>
-
-
-<h2 align="center">📫 Let's Connect</h2>
-
-<div align="center">
-
-<!-- Gmail 邮箱 -->
-<a href="mailto:xy1711271149@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-xy1711271149@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<br/>
-<i>Send me an email on Gmail 📧</i>
-
-<br/><br/>
-
-<!-- QQ 邮箱 -->
-<a href="mailto:1711271149@qq.com">
-  <img src="https://img.shields.io/badge/QQ-1711271149@qq.com-12C3B2?style=for-the-badge&logo=tencentqq&logoColor=white" />
-</a>
-<br/>
-<i>Drop me a message on QQ 📬</i>
-
-<br/><br/>
-
-<!-- GitHub 主页 -->
-<a href="https://github.com/xy-lo">
-  <img src="https://img.shields.io/badge/GitHub-xy--lo-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<br/>
-<i>Visit my GitHub Profile 🐙</i>
-
-<br/><br/>
-
-<!-- Star 我的仓库 -->
-<a href="https://github.com/xy-lo/xy-lo">
-  <img src="https://img.shields.io/github/stars/xy-lo/xy-lo?style=for-the-badge&label=Star%20My%20Profile&logo=github&color=FFD700" />
-</a>
-<br/>
-<i>Click to ⭐ my GitHub page!</i>
-
-</div>
 
 
 
