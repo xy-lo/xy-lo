@@ -1,3 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>音乐播放器</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
+  <style>
+    body, html {
+      height: 100%;
+      margin: 0;
+      position: relative;
+    }
+    .player-container {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 80%;
+      max-width: 600px;
+      height: 200px;
+    }
+  </style>
+</head>
+<body>
+  <div class="player-container">
+    <meting-js server="tencent" type="playlist" id="1769768332" fixed="true"></meting-js>
+  </div>
+
 <!--APlayer-->
 <script src="https://cdn.jsdelivr.net/npm/vconsole/dist/vconsole.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
@@ -6,3 +35,8 @@
 <script src="https://cdn.jsdelivr.net/npm/color-thief-don@2.0.2/src/color-thief.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script>
 <meting-js server="tencent" type="playlist" id="bWFHU4I5n9sg" fixed="true"></meting-js>
+
+</body>
+</html>
+
+
