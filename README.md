@@ -18,6 +18,12 @@
 <!-- 或者尝试嵌入iframe，但GitHub可能会过滤 -->
 <iframe src="https://xy-lo.github.io/xy-lo/" width="350" height="100" frameborder="0"></iframe>
 
+## 我喜欢的音乐
+
+### 天龙八部之宿敌 - 许嵩
+
+<iframe frameborder="0" border="0" marginwidth="0" marginheight="0" width=330 height=86 
+        src="https://i.y.qq.com/n2/m/outchain/player/index.html?songmid=RFwAeBeI0CBQ&source=qq&ADTAG=hq_mini_song&autoplay=0"></iframe>
 
 <!-- Repo has been edited to be static, see comments for dynamic calls. -->
 hello! here's a little about me:
