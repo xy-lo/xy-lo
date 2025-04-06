@@ -7,15 +7,16 @@
 
 # 🎵 我的音乐简介页
 
-<div>
-  <iframe frameborder="0" border="0" 
-          src="https://xy-lo.github.io/docs/天龙八部之宿敌-许嵩.mp3" 
-          width="300" height="80" allowfullscreen></iframe>
-</div>
+## 我喜欢的音乐
+
+### 天龙八部之宿敌 - 许嵩
+
+<!-- QQ音乐外链播放器 -->
+<iframe frameborder="0" border="0" marginwidth="0" marginheight="0" width=330 height=86 
+        src="https://i.y.qq.com/n2/m/outchain/player/index.html?songid=RFwAeBeI0CBQ&songtype=0"></iframe>
 
 
-
-
+https://c6.y.qq.com/base/fcgi-bin/u?__=RFwAeBeI0CBQ
 
 
 <!-- Repo has been edited to be static, see comments for dynamic calls. -->
