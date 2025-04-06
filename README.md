@@ -11,7 +11,8 @@
 
 ## 我喜欢的音乐
 
-### 天龙八部之宿敌 - 许嵩
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=33367876&auto=1&height=66"></iframe>
+
 
 [在线收听](https://c6.y.qq.com/base/fcgi-bin/u?__=RFwAeBeI0CB) - 点击后将在新页面自动播放
 
