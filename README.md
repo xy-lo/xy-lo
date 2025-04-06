@@ -26,12 +26,6 @@
 - ✨ Reading  Novels
 - ✨ Badminton (Neighbourhood Professional XD)
 
---[![GitHub Streak](https://streak-stats.demolab.com?user=xy-lo&theme=gruvbox-duo&hide_border=true)](https://git.io/streak-stats)
-<div align="center"><img src="https://raw.githubusercontent.com/xy-lo/xy-lo/main/assets/github-contribution-grid-snake.svg" ></div>--
-
-
-- ✨ Badminton (Neighbourhood Professional XD)
-![](https://raw.githubusercontent.com/xy-lo/xy-lo/main/assets/github-contribution-grid-snake.svg)
 
 <!-- Nothing weird to see here -->
 <p align="center">
