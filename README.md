@@ -1,15 +1,64 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Calligraphy&weight=900&size=30&pause=1000&color=8573F7&background=C1FFE400&center=true&vCenter=true&repeat=false&random=true&width=500&height=100&lines=HELLO+FELLOWS%F0%9F%91%8B;Here's+a+little+about+me..)
 
+<!-- Repo has been edited to be static, see comments for dynamic calls. -->
+hello! here's a little about me:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Colonna+MT&weight=900&size=30&pause=1000&color=8573F7&background=C1FFE400&center=true&vCenter=true&repeat=false&random=true&width=500&height=100&lines=HELLO+FELLOWS%F0%9F%91%8B;Here's+a+little+about+me..)](https://git.io/typing-svg)
+<h1>
+  i really like music :headphones:
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixeloid+Sans&weight=900&size=30&pause=1000&color=8573F7&background=C1FFE400&center=true&vCenter=true&repeat=false&random=true&width=500&height=100&lines=HELLO+FELLOWS%F0%9F%91%8B;Here's+a+little+about+me..)](https://git.io/typing-svg)
+<!-- Nothing weird to see here -->
+<p align="center">
+  <a href="https://readme.andyruwruw.com/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
+    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Calligraphy&weight=900&size=30&pause=1000&color=8573F7&background=C1FFE400&center=true&vCenter=true&repeat=false&random=true&width=500&height=100&lines=HELLO+FELLOWS%F0%9F%91%8B;Here's+a+little+about+me..)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg">
+  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/top-played"> -->
+</p>
+ 
+<p align="center">
+  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
+  <i>inspired by </i>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Imprint+MT+Shadow&weight=900&size=30&pause=1000&color=8573F7&background=C1FFE400&center=true&vCenter=true&repeat=false&random=true&width=500&height=100&lines=HELLO+FELLOWS%F0%9F%91%8B;Here's+a+little+about+me..)](https://git.io/typing-svg)
+<p></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=900&size=30&pause=1000&color=8573F7&background=C1FFE400&center=true&vCenter=true&repeat=false&random=true&width=500&height=100&lines=HELLO+FELLOWS%F0%9F%91%8B;Here's+a+little+about+me..)](https://git.io/typing-svg)
+<h1>
+  i was a frontend intern at chess.com ♟
+</h1>
+
+<p align="center">
+  <a href="https://www.chess.com/member/andyruwruw">
+    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/chess-games.svg">
+    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/chess-games"> -->
+  </a>
+</p>
+
+<p align="center">
+  <i>luckily being good at chess wasn't a pre-req to the job</i>
+</p>
+
+<p></p>
+
+<h1>
+  i'm a vue.js fanboy, but i do some other stuff too :hammer:
+</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/skills.svg">
+  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/skills"> -->
+</p>
+、
+
+
+
+
+
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
