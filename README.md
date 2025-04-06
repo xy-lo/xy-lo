@@ -40,43 +40,40 @@
   <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white"/>
 </p>
 
-<h1 align="center">
-  📫 Let's Connect
-</h1>
+<h1 align="center">📫 Let's Connect</h1>
+
+<p align="center"><i>Feel free to reach out — I’d love to hear from you!</i></p>
 
 <p align="center">
-  <i>Feel free to reach out to me through any of the following platforms:</i>
-</p>
-
-<p align="center">
-  <!-- Gmail 邮箱链接 -->
+  <!-- Gmail -->
   <a href="mailto:xy1711271149@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&label=Gmail" width="150"/>
+    <img src="https://img.shields.io/badge/Gmail-xy1711271149@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <p align="center">Send me an email on Gmail 📧</p>
-  
-  <!-- QQ 邮箱链接 -->
-  <a href="mailto:1711271149@qq.com">
-    <img src="https://img.shields.io/badge/QQ%20Email-12C3B2?style=flat-square&logo=qq&logoColor=white&label=QQ%20Email" width="150"/>
-  </a>
-  <p align="center">Drop me a message on QQ 📬</p>
 
-  <!-- GitHub 个人主页链接 -->
+  <!-- QQ -->
+  <a href="mailto:1711271149@qq.com">
+    <img src="https://img.shields.io/badge/QQ-1711271149@qq.com-12C3B2?style=for-the-badge&logo=tencentqq&logoColor=white" />
+  </a>
+
+  <!-- GitHub -->
   <a href="https://github.com/xy-lo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&label=GitHub" width="150"/>
+    <img src="https://img.shields.io/badge/GitHub-xy--lo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <p align="center">Visit my GitHub Profile 🐙</p>
-  
-  <!-- GitHub Star 按钮 -->
-  <a href="https://github.com/xy-lo/yourrepository/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/xy-lo/yourrepository?style=social&label=Star" width="150"/>
-  </a>
-  <p align="center">Show your support by starring my GitHub project ⭐</p>
 </p>
+
+---
+
+<h2 align="center">⭐ If you like what I do, give me a Star!</h2>
 
 <p align="center">
-  <i>Looking forward to connecting with you! 🌟</i>
+  <!-- GitHub Star Badge -->
+  <a href="https://github.com/xy-lo/xy-lo">
+    <img src="https://img.shields.io/github/stars/xy-lo/xy-lo?style=for-the-badge&label=Star%20My%20Profile&logo=github&color=FFD700" />
+  </a>
 </p>
+
+<p align="center"><i>Thank you for visiting! 🎉</i></p>
+
 
 
 
