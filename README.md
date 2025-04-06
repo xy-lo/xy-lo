@@ -53,7 +53,7 @@
   <br/>
   <i>Send me an email on Gmail 📧</i>
 
-  <br/><br/>
+  <br/>
 
   <!-- QQ 邮箱 -->
   <a href="mailto:1711271149@qq.com">
@@ -62,7 +62,7 @@
   <br/>
   <i>Drop me a message on QQ 📬</i>
 
-  <br/><br/>
+  <br/>
 
   <!-- GitHub 主页 -->
   <a href="https://github.com/xy-lo">
