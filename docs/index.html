@@ -36,12 +36,10 @@
       cursor: pointer; animation: pulse 2s infinite;
       transition: background-color 0.3s;
     }
-    .play-button:hover {
-      background-color: #8F92E0;
-    }
+    .play-button:hover { background-color: #8F92E0; }
     @keyframes pulse {
-      0%   { transform: scale(1); }
-      50%  { transform: scale(1.05); }
+      0% { transform: scale(1); }
+      50% { transform: scale(1.05); }
       100% { transform: scale(1); }
     }
     @keyframes fadeIn {
@@ -49,7 +47,7 @@
     }
     @keyframes fadeInUp {
       from { opacity: 0; transform: translateY(20px); }
-      to   { opacity: 1; transform: translateY(0); }
+      to { opacity: 1; transform: translateY(0); }
     }
   </style>
 </head>
@@ -58,8 +56,8 @@
     <h1 class="title">你好！欢迎来到我的音乐简介页面</h1>
     <p class="subtitle">播放歌曲：天龙八部之宿敌</p>
     <button class="play-button" id="playButton">▶ 播放音乐</button>
-    <!-- 本地相对路径引用 -->
-    <audio id="audio" src="music.mp3"></audio>
+    <!-- 直接引用同目录下的 MP3 -->
+    <audio id="audio" src="天龙八部之宿敌-许嵩.mp3"></audio>
   </div>
 
   <script>
