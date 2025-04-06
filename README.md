@@ -3,7 +3,7 @@
 
 # 🎶 Music Online
 # </details>
-## <summary>🎵 click here for types </summary>
+#### <summary>🎵 click here for types </summary>
 🎧[sound musci](https://xy-lo.github.io/xy-lo/index.html)
 # </details>
 
