@@ -14,7 +14,7 @@
 <details>
 <summary>🎵 点击这里播放音乐</summary>
 
-前往：[在线音乐播放器](https://<xy-lo>.github.io/<xy-lo>/index.html)
+前往：[在线音乐播放器](https://xy-lo.github.io/xy-lo/docs/index.html)
 
 </details>
 
