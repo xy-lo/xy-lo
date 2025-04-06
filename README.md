@@ -1,5 +1,8 @@
 # Konichiwa 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Single+Day&weight=600&pause=1000&color=A2A5F7&background=C1FFE400&center=true&vCenter=true&repeat=false&random=true&width=435&lines=HELLO+FELLOWS%F0%9F%91%8B;Here's+a+little+about+me..)](https://git.io/typing-svg)
+
+
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
