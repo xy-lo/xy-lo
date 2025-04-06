@@ -13,7 +13,7 @@
 
 ### 天龙八部之宿敌 - 许嵩
 
-[在线收听]([https://c6.y.qq.com/base/fcgi-bin/u?__=RFwAeBeI0CB]) - 点击后将在新页面自动播放
+[在线收听](https://c6.y.qq.com/base/fcgi-bin/u?__=RFwAeBeI0CB) - 点击后将在新页面自动播放
 
 <!-- 或者尝试嵌入iframe，但GitHub可能会过滤 -->
 <iframe src="https://xy-lo.github.io/xy-lo/" width="350" height="100" frameborder="0"></iframe>
