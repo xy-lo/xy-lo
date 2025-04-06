@@ -7,15 +7,8 @@
 <summary>🎵 click here for types </summary>
 🎧[sound musci](https://xy-lo.github.io/xy-lo/index.html)
 </details>
+<!-- Nothing weird to see here -->
 
-
-
-<!-- Repo has been edited to be static, see comments for dynamic calls. -->
-hello! here's a little about me:
-
-<h1>
-  i really like music :headphones:
-</h1>
 
 <!-- Nothing weird to see here -->
 <p align="center">
