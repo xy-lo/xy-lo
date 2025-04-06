@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Calligraphy&weight=900&size=30&pause=1000&color=8573F7&background=C1FFE400&center=true&vCenter=true&repeat=false&random=true&width=500&height=100&lines=HELLO+FELLOWS%F0%9F%91%8B;Here's+a+little+about+me..)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Calligraphy&weight=900&size=30&pause=1000&color=8573F7&background=C1FFE400&center=true&vCenter=true&repeat=false&random=true&width=500&height=100&lines=HELLO+FELLOWS%F0%9F%91%8B;Here's+a+little+about+me..)]
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Colonna+MT&weight=900&size=30&pause=1000&color=8573F7&background=C1FFE400&center=true&vCenter=true&repeat=false&random=true&width=500&height=100&lines=HELLO+FELLOWS%F0%9F%91%8B;Here's+a+little+about+me..)](https://git.io/typing-svg)
