@@ -1,23 +1,12 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Calligraphy&weight=900&size=30&pause=1000&color=8573F7&background=C1FFE400&center=true&vCenter=true&repeat=false&random=true&width=500&height=100&lines=HELLO+FELLOWS%F0%9F%91%8B;Here's+a+little+about+me..)
 
 
-# 🎶 在线播放
+## 🎶 Music Online
+# </details>
+# <summary>🎵 click here for types </summary>
+🎧[sound musci](https://xy-lo.github.io/xy-lo/index.html)
+# </details>
 
-🎧 点击下面按钮即可播放《天龙八部之宿敌》：
-
-# 🎵 我的音乐简介页
-
-# xy-lo
-
-## 我喜欢的音乐
-
-<details>
-<summary>🎵 点击这里播放音乐</summary>
-
-前往：[在线音乐播放器](https://xy-lo.github.io/xy-lo/index.html)
-
-
-</details>
 
 
 <!-- Repo has been edited to be static, see comments for dynamic calls. -->
