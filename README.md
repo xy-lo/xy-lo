@@ -7,7 +7,11 @@
 
 # 🎵 我的音乐简介页
 
-👉 [点击这里在线听《天龙八部之宿敌》](https://xy-lo.github.io/xy-lo/)
+<div>
+  <iframe frameborder="0" border="0" 
+          src="https://xy-lo.github.io/docs/天龙八部之宿敌-许嵩.mp3" 
+          width="300" height="80" allowfullscreen></iframe>
+</div>
 
 
 
