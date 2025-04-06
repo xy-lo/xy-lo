@@ -1,43 +1,20 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>音乐播放器</title>
-  
-  <!-- 引入 APlayer 样式 -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
-  
-  <!-- 引入其他依赖 -->
-  <script src="https://cdn.jsdelivr.net/npm/vconsole/dist/vconsole.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/hls.js/dist/hls.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/color-thief-don@2.0.2/src/color-thief.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script>
-  
-  <style>
-    /* 页面设置 */
-    body, html {
-      height: 100%;
-      margin: 0;
-      display: flex;
-      justify-content: center;  /* 水平居中 */
-      align-items: center;      /* 垂直居中 */
-      background-color: #f0f0f0;
-    }
-    /* 播放器容器 */
-    .player-container {
-      width: 80%;  /* 可以根据需要调整宽度 */
-      max-width: 600px;  /* 最大宽度 */
-      height: 200px;  /* 根据需求调整播放器高度 */
-    }
-  </style>
-</head>
-<body>
-  <!-- 播放器容器 -->
-  <div class="player-container">
-    <!-- 使用 Meting 播放器 -->
-    <meting-js server="tencent" type="playlist" id="bWFHU4I5n9sg" fixed="true"></meting-js>
-  </div>
-</body>
-</html>
+<!--APlayer-->
+<script src="https://cdn.jsdelivr.net/npm/vconsole/dist/vconsole.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/hls.js/dist/hls.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/color-thief-don@2.0.2/src/color-thief.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script>
+
+<style>
+.aplayer-wrap {
+  display: flex;
+  justify-content: center;
+  margin: 20px auto;
+  max-width: 500px;
+}
+</style>
+
+<div class="aplayer-wrap">
+  <meting-js server="tencent" type="playlist" id="bWFHU4I5n9sg" autoplay="false" theme="#2980b9"></meting-js>
+</div>
