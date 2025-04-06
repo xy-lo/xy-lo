@@ -9,6 +9,25 @@
 </details>
 <!-- Nothing weird to see here -->
 
+<h1>
+ 💬 About ME
+</h1>
+
+### - I am a 22-year-old student majoring in Electronic and Information Engineering, from UPC, China.
+
+### - Learning :
+- ✨ Integrated Circuit (IC) Design
+- ✨ Signal Processing & Communication Systems
+- ✨ Generative Adversarial Networks
+
+### - Hobbies : 
+- ✨ Running
+- ✨ Basketball
+- ✨ Reading  Novels
+- ✨ Badminton (Neighbourhood Professional XD)
+
+
+
 
 <!-- Nothing weird to see here -->
 <p align="center">
