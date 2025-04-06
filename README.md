@@ -12,7 +12,9 @@
 <h1>
  💬 About ME
 </h1>
+
 🎓 I'm a **junior undergraduate student** at **China University of Petroleum (East China)**, majoring in **Electronic Information Engineering**.  
+
 🔬 I'm passionate about **IC Design**, **Electromagnetics**, **Robotics**, and **Python programming**.  
 
 💡 I enjoy learning, building, and contributing in any way I can — through projects, teamwork, or open source.
