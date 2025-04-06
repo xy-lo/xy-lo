@@ -1,5 +1,11 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Calligraphy&weight=900&size=30&pause=1000&color=8573F7&background=C1FFE400&center=true&vCenter=true&repeat=false&random=true&width=500&height=100&lines=HELLO+FELLOWS%F0%9F%91%8B;Here's+a+little+about+me..)
+<div align="center">
+  <meting-js server="tencent" type="playlist" id="bWFHU4I5n9sg" theme="#2980b9"></meting-js>
+</div>
 
+<!-- 加载必要的脚本 -->
+<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script>
 
 # 🎶 在线播放
 
