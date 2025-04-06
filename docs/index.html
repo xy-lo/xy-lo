@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>音乐简介 – 天龙八部之宿敌</title>
+  <!-- 引入 Single Day 手写字体 -->
+  <link href="https://fonts.googleapis.com/css2?family=Single+Day&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0; padding: 0;
+      background: linear-gradient(135deg, #C1FFE4, #A2A5F7);
+      font-family: 'Single Day', cursive;
+      display: flex; justify-content: center; align-items: center;
+      height: 100vh; color: #333;
+    }
+    .container {
+      text-align: center;
+      background: rgba(255,255,255,0.8);
+      padding: 2rem; border-radius: 1rem;
+      box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+      animation: fadeIn 1s ease-in-out;
+    }
+    .title {
+      font-size: 2.5rem; margin-bottom: 0.5rem;
+      animation: fadeInUp 1s ease-out;
+    }
+    .subtitle {
+      font-size: 1.2rem; margin-bottom: 2rem;
+      animation: fadeInUp 1s ease-out 0.5s;
+    }
+    .play-button {
+      font-size: 1.5rem; padding: 0.75rem 1.5rem;
+      border: none; border-radius: 0.5rem;
+      background-color: #A2A5F7; color: #fff;
+      cursor: pointer; animation: pulse 2s infinite;
+      transition: background-color 0.3s;
+    }
+    .play-button:hover {
+      background-color: #8F92E0;
+    }
+    @keyframes pulse {
+      0%   { transform: scale(1); }
+      50%  { transform: scale(1.05); }
+      100% { transform: scale(1); }
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; } to { opacity: 1; }
+    }
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(20px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 class="title">你好！欢迎来到我的音乐简介页面</h1>
+    <p class="subtitle">播放歌曲：天龙八部之宿敌</p>
+    <button class="play-button" id="playButton">▶ 播放音乐</button>
+    <!-- 本地相对路径引用 -->
+    <audio id="audio" src="music.mp3"></audio>
+  </div>
+
+  <script>
+    const audio  = document.getElementById('audio');
+    const button = document.getElementById('playButton');
+
+    button.addEventListener('click', () => {
+      if (audio.paused) {
+        audio.play();
+        button.textContent = '❚❚ 暂停音乐';
+      } else {
+        audio.pause();
+        button.textContent = '▶ 播放音乐';
+      }
+    });
+
+    audio.addEventListener('ended', () => {
+      button.textContent = '▶ 播放音乐';
+    });
+  </script>
+</body>
+</html>
