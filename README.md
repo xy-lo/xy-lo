@@ -1,97 +1,12 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Calligraphy&weight=900&size=30&pause=1000&color=8573F7&background=C1FFE400&center=true&vCenter=true&repeat=false&random=true&width=500&height=100&lines=HELLO+FELLOWS%F0%9F%91%8B;Here's+a+little+about+me..)
 
 
-<!-- README.md -->
+# 🎶 在线播放
 
-<!-- 引入 Google Fonts 中的 Single Day 手写字体 -->
-<link href="https://fonts.googleapis.com/css2?family=Single+Day&display=swap" rel="stylesheet">
+🎧 点击下面按钮即可播放《天龙八部之宿敌》：
 
-<style>
-  /* 全局背景与字体设置 */
-  body {
-    margin: 0;
-    padding: 0;
-    background: linear-gradient(135deg, #C1FFE4, #A2A5F7);
-    font-family: 'Single Day', cursive;
-    color: #333;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-  }
-  /* 容器样式 */
-  .container {
-    text-align: center;
-    background: rgba(255,255,255,0.8);
-    padding: 2rem;
-    border-radius: 1rem;
-    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
-    animation: fadeIn 1s ease-in-out;
-  }
-  /* 标题、按钮动画 */
-  .title {
-    font-size: 2.5rem;
-    margin-bottom: 0.5rem;
-    animation: fadeInUp 1s ease-out;
-  }
-  .subtitle {
-    font-size: 1.2rem;
-    margin-bottom: 2rem;
-    animation: fadeInUp 1s ease-out 0.5s;
-  }
-  .play-button {
-    font-size: 1.5rem;
-    padding: 0.75rem 1.5rem;
-    border: none;
-    border-radius: 0.5rem;
-    background-color: #A2A5F7;
-    color: #fff;
-    cursor: pointer;
-    animation: pulse 2s infinite;
-    transition: background-color 0.3s;
-  }
-  .play-button:hover {
-    background-color: #8F92E0;
-  }
-  @keyframes pulse {
-    0%   { transform: scale(1); }
-    50%  { transform: scale(1.05); }
-    100% { transform: scale(1); }
-  }
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to   { opacity: 1; }
-  }
-  @keyframes fadeInUp {
-    from { opacity: 0; transform: translateY(20px); }
-    to   { opacity: 1; transform: translateY(0); }
-  }
-</style>
+[![▶ 播放《天龙八部之宿敌》](https://img.shields.io/badge/▶-播放-🎵-1DB954?style=for-the-badge)](https://raw.githubusercontent.com/你的用户名/仓库名/main/assets/天龙八部之宿敌.mp3)
 
-<div class="container">
-  <h1 class="title">你好！欢迎来到我的音乐简介页面</h1>
-  <p class="subtitle">播放歌曲：天龙八部之宿敌</p>
-  <button class="play-button" id="playButton">▶ 播放音乐</button>
-  <!-- 音频源：请替换为你自己的文件链接或下方示例 -->
-  <audio id="audio" src="https://www.kumeiwp.com/wj/221806/2024/07/18/653bfd65c0ea684c7f134427da762d43.mp3"></audio>
-</div>
-
-<script>
-  const audio  = document.getElementById('audio');
-  const button = document.getElementById('playButton');
-  button.addEventListener('click', () => {
-    if (audio.paused) {
-      audio.play();
-      button.textContent = '❚❚ 暂停音乐';
-    } else {
-      audio.pause();
-      button.textContent = '▶ 播放音乐';
-    }
-  });
-  audio.addEventListener('ended', () => {
-    button.textContent = '▶ 播放音乐';
-  });
-</script>
 
 
 
