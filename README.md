@@ -11,6 +11,12 @@
 
 ## 我喜欢的音乐
 
+<details>
+<summary>🎵 点击这里播放音乐</summary>
+
+前往：[在线音乐播放器](https://<xy-lo>.github.io/<xy-lo>/index.html)
+
+</details>
 
 
 <!-- Repo has been edited to be static, see comments for dynamic calls. -->
